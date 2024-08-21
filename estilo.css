@@ -1,15 +1,16 @@
 h1 {
-    color: #042c5c;
+    color: #031C26;
     text-align: center;
     font-size: 60px;
     line-height: 1.2; /* Adicionado para melhorar a legibilidade */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 h2{
     text-align: center;
 
 }
 body {
-    background-color: #37748c;
+    background-color: #fdfdfd;
     margin: 0; /* Remove margens padrão */
     padding: 20px; /* Adiciona espaçamento ao redor do conteúdo */
     font-family: Arial, sans-serif; /* Fonte básica para legibilidade */
