@@ -1,0 +1,39 @@
+h1 {
+    color: #042c5c;
+    text-align: center;
+    font-size: 60px;
+    line-height: 1.2; /* Adicionado para melhorar a legibilidade */
+}
+h2{
+    text-align: center;
+
+}
+body {
+    background-color: #37748c;
+    margin: 0; /* Remove margens padrão */
+    padding: 20px; /* Adiciona espaçamento ao redor do conteúdo */
+    font-family: Arial, sans-serif; /* Fonte básica para legibilidade */
+}
+
+img { 
+    width: 50%;
+    max-width: 500px; /* Limita o tamanho máximo da imagem */
+    display: block;
+    margin: 100px auto; /* Centraliza a imagem */
+}
+h4{
+    font-size: 30px;
+    margin-left: 60px;
+}
+p{ 
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: ;
+    border: 30px;
+    border-color: #042c5c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    margin-left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
