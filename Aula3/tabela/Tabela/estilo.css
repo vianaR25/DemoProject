@@ -1,0 +1,23 @@
+table{
+    border: 2px solid blue;
+    width: 50%;
+    
+}
+td{
+    border: 2px solid rgb(128, 66, 0);
+    background-color: goldenrod;
+    padding: 10px 5px 5px 10px;
+}
+th{ border: 2px solid rgb(193, 62, 10);
+    background-color: rgb(68, 68, 255);
+
+}
+
+table,td,th{
+    margin: 50px auto; 
+    border-collapse: collapse;
+}
+h1{
+    text-align: center;
+ 
+}
